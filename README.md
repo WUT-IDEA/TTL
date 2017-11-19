@@ -1,2 +1,2 @@
 # TTL
-Source code of TTL
+Source code of TTL from WHUT IDEA lab
